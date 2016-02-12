@@ -1,0 +1,6 @@
+# project components
+bower_components
+node_modules
+
+# certificate
+resources
